@@ -85,7 +85,8 @@ Key logic:
   <img src="linefollower.png" width="500" alt="Line Follower Robot Preview">
 </p>
 
----
+👉 **[Click here to view or download the video directly](https://github.com/EmperorGonneBerserk/Line-Follower-Robot/raw/main/Line_Follower.mp4)**
+
 
 ## 🚀 Future Enhancements
 
