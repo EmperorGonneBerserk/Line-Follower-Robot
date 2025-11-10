@@ -82,11 +82,7 @@ Key logic:
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/linefollower_bot.jpg" width="500" alt="Line Follower Robot Preview">
-</p>
-
-<p align="center">
-  <a href="assets/circuit_diagram.png">📄 View Circuit Diagram</a>
+  <img src="linefollower.png" width="500" alt="Line Follower Robot Preview">
 </p>
 
 ---
